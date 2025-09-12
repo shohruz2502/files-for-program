@@ -12,17 +12,6 @@
       "category": "electronics"
     },
     {
-      "id": 2,
-      "name": "Джинсы Levi's",
-      "description": "Классические прямые джинсы",
-      "price": 89,
-      "oldPrice": 120,
-      "rating": 4.5,
-      "ratingsCount": 89,
-      "image": "https://admin.levi.com.ru/upload/iblock/195/19520c1f6d879cec7f6b9a9b8c355c76.jpg",
-      "category": "clothing"
-    },
-    {
       "id": 3,
       "name": "Кроссовки Nike Air Max",
       "description": "Спортивные кроссовки для бега",
@@ -35,3 +24,4 @@
     }
   ]
 }
+

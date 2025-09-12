@@ -8,7 +8,7 @@
       "oldPrice": 899,
       "rating": 4.8,
       "ratingsCount": 125,
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/ru/2308/gallery/ru-galaxy-z-fold5-f946-sm-f946bzkacis-536867917?$650_519_PNG$",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/ru/2308/gallery/ru-galaxy-z-fold5-f946-sm-f946bzkacis-536867917",
       "category": "electronics"
     },
     {
@@ -32,105 +32,6 @@
       "ratingsCount": 204,
       "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-mens-shoes-JWTGqJ.png",
       "category": "shoes"
-    },
-    {
-      "id": 4,
-      "name": "Кофемашина DeLonghi",
-      "description": "Автоматическая кофемашина с капучинатором",
-      "price": 449,
-      "oldPrice": 599,
-      "rating": 4.9,
-      "ratingsCount": 56,
-      "image": "https://cdn.homebrands.ru/upload/iblock/0f8/0f86bfa5efc9c2c32d5e4b5d5b6f1e6c.jpg",
-      "category": "appliances"
-    },
-    {
-      "id": 5,
-      "name": "Умные часы Apple Watch",
-      "description": "Смарт-часы с функцией отслеживания здоровья",
-      "price": 399,
-      "oldPrice": 469,
-      "rating": 4.8,
-      "ratingsCount": 312,
-      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MNXW3_VW_PF+watch-45-alum-midnight-nc-8s_VW_PF_WF_SI?wid=2000&hei=2000&fmt=p-jpg&qlt=90&.v=1684344263706",
-      "category": "electronics"
-    },
-    {
-      "id": 6,
-      "name": "Куртка The North Face",
-      "description": "Теплая зимняя куртка с пуховым наполнителем",
-      "price": 229,
-      "oldPrice": 299,
-      "rating": 4.6,
-      "ratingsCount": 78,
-      "image": "https://static.thenorthface.ru/upload/iblock/af9/af9c3f3d3f3c3f3d3f3c3f3d3f3c3f3d.jpg",
-      "category": "clothing"
-    },
-    {
-      "id": 7,
-      "name": "Наушники Sony WH-1000XM4",
-      "description": "Беспроводные наушники с шумоподавлением",
-      "price": 279,
-      "oldPrice": 349,
-      "rating": 4.9,
-      "ratingsCount": 467,
-      "image": "https://www.sony.ru/image/9c4162c8c2dcd796e48e2c2e4d5e6e6f?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
-      "category": "electronics"
-    },
-    {
-      "id": 8,
-      "name": "Фитнес-браслет Xiaomi Mi Band",
-      "description": "Трекер активности с пульсометром",
-      "price": 49,
-      "oldPrice": 69,
-      "rating": 4.4,
-      "ratingsCount": 892,
-      "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/974c13a7c7a6e3e7e7e7e7e7e7e7e7e7.jpg",
-      "category": "sport"
-    },
-    {
-      "id": 9,
-      "name": "Корм для кошек Royal Canin",
-      "description": "Сбалансированный корм для взрослых кошек",
-      "price": 35,
-      "oldPrice": 42,
-      "rating": 4.7,
-      "ratingsCount": 156,
-      "image": "https://royalcanin.ru/upload/iblock/9a9/9a93d3d3d3d3d3d3d3d3d3d3d3d3d3d.jpg",
-      "category": "pets"
-    },
-    {
-      "id": 10,
-      "name": "Книга 'Мастер и Маргарита'",
-      "description": "Роман Михаила Булгакова",
-      "price": 15,
-      "oldPrice": 19,
-      "rating": 4.9,
-      "ratingsCount": 723,
-      "image": "https://img4.labirint.ru/rc/6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c6c/363x561q80/books51/509978/cover.jpg",
-      "category": "books"
-    },
-    {
-      "id": 11,
-      "name": "Крем для лица L'Oreal",
-      "description": "Увлажняющий крем с гиалуроновой кислотой",
-      "price": 24,
-      "oldPrice": 32,
-      "rating": 4.5,
-      "ratingsCount": 289,
-      "image": "https://www.lorealparis.ru/-/media/project/loreal/brand-sites/oap/emea/ru/products/skincare/face/hydra-genius/glow/sku/3606623655874/sku_3606623655874_01.jpg",
-      "category": "beauty"
-    },
-    {
-      "id": 12,
-      "name": "Набор посуды Tefal",
-      "description": "Кухонный набор из 12 предметов",
-      "price": 129,
-      "oldPrice": 159,
-      "rating": 4.6,
-      "ratingsCount": 98,
-      "image": "https://www.tefal.ru/-/media/project/tefal/consumer/russia/products/cookware/sets/c136s74/c136s74_sku_front_view_2000x2000.png",
-      "category": "home"
     }
   ]
 }
